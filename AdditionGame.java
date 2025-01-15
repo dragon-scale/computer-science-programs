@@ -2,9 +2,6 @@ package faithhainadditiongame;
 
 import javax.swing.JOptionPane;
 
-/**
- * @author Faith Hain
- */
 public class FaithHainAdditionGame
 {
 
